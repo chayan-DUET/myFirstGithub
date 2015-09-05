@@ -8,5 +8,8 @@
  * @author Chayan_pc
  */
 public class modelClass {
+    int x;
+    double y;
+    
     
 }
