@@ -15,5 +15,6 @@ public class Mygitjava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("we are learning github");
     }
 }
